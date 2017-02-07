@@ -55,6 +55,7 @@ class CalendarReusableView: UICollectionViewCell, Reusable, JTAppleCalendarViewD
         return CGSize(width: self.frame.width - 8, height: 70)
     }
     
+    // maybe not the most effiecient way of create a header cell!
     func calendar(_ calendar: JTAppleCalendarView, willDisplaySectionHeader header: JTAppleHeaderView, range: (start: Date, end: Date), identifier: String) {
         let headerCell = (header as? AvailabilityCalendarHeader)
         
