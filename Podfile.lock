@@ -1,0 +1,15 @@
+PODS:
+  - JTAppleCalendar (6.1.1)
+  - SwiftDate (4.0.11)
+
+DEPENDENCIES:
+  - JTAppleCalendar (~> 6.0)
+  - SwiftDate (~> 4.0)
+
+SPEC CHECKSUMS:
+  JTAppleCalendar: fc53eb29ec81f8a90969e2d214b3aa610ab4e5b3
+  SwiftDate: a36d5ce7c86bed3ed92b583ccbf15045f374ac65
+
+PODFILE CHECKSUM: 5189c85787d638214a921718eb55eb3f5839c44a
+
+COCOAPODS: 1.1.1
